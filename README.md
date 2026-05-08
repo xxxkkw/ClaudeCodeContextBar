@@ -4,6 +4,10 @@ English | [中文](README_CN.md)
 
 Claude Code Context Bar adds a compact, always-visible context usage bar to the Claude Code extension for VS Code and Cursor.
 
+## About
+
+This project is a lightweight local patch for the Claude Code VS Code / Cursor extension. It helps developers monitor context usage at a glance while keeping Claude Code's official behavior unchanged.
+
 It updates the installed Claude Code extension webview so the context usage entry in the input footer shows:
 
 - A colorful context usage bar

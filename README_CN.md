@@ -4,6 +4,10 @@
 
 给 Claude Code 的 VS Code / Cursor 扩展添加一个更直观的上下文使用量进度条。
 
+## 关于
+
+本项目是一个面向 Claude Code VS Code / Cursor 扩展的本地轻量补丁。它可以帮助开发者更直观地查看上下文使用量，同时不改变 Claude Code 官方原有行为。
+
 脚本会修改本机已安装的 Claude Code 扩展 webview 文件，让输入框底部原本的上下文使用入口显示为：
 
 - 彩色上下文进度条
