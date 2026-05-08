@@ -6,14 +6,13 @@
 
 ## 关于
 
-本项目是一个面向 Claude Code VS Code / Cursor 扩展的本地轻量补丁。它可以帮助开发者更直观地查看上下文使用量，同时不改变 Claude Code 官方原有行为。
+本项目是一个面向 Claude Code VS Code / Cursor 扩展的本地轻量补丁。它可以帮助开发者更直观地查看上下文使用量，同时保留 Claude Code 其他原有行为。
 
 脚本会修改本机已安装的 Claude Code 扩展 webview 文件，让输入框底部原本的上下文使用入口显示为：
 
 - 彩色上下文进度条
 - 已使用上下文百分比
 - 悬浮弹窗中显示模型、token 总量、分类占用、Memory 文件和自定义 Agent 明细
-- 点击进度条后继续使用官方原本的 `/compact` 行为
 
 ## 效果预览
 
