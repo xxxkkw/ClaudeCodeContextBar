@@ -11,6 +11,10 @@
 - 悬浮弹窗中显示模型、token 总量、分类占用、Memory 文件和自定义 Agent 明细
 - 点击进度条后继续使用官方原本的 `/compact` 行为
 
+## 效果预览
+
+![Claude Code Context Bar 效果预览](img.png)
+
 ## 功能
 
 - 自动查找本机最新版本的 Claude Code 扩展

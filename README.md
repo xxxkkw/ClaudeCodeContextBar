@@ -11,6 +11,10 @@ It updates the installed Claude Code extension webview so the context usage entr
 - A hover popover with model, token totals, category usage, memory files, and custom agent details
 - The original official `/compact` behavior when the bar is clicked
 
+## Preview
+
+![Claude Code Context Bar preview](img.png)
+
 ## Features
 
 - Automatically finds the latest installed Claude Code extension
